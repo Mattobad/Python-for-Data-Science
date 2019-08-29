@@ -48,15 +48,6 @@ for ch in range(10):
     
  
     
-    '''
-    Assignment prime number
-    NITIN.AKASH1989@GMAIL.COM
-    SUBJECT: 5580:ACTIVITY1: SARBOTTAM THAPA MAGAR
-    
-    FOR AND IF TO CHECK THE NUMBER IS PRIME
-    '''
-    
-    
 '''
 Tuple
  

@@ -1,4 +1,0 @@
-import primeAssign
-primeAssign.main
-
-
