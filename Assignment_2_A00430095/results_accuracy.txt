@@ -1,0 +1,3 @@
+Final Accuracy of Logistic Regression: 0.89792
+Final Accuracy of Support Vector Machine: 0.89444
+Final Accuracy of Naive Bayes: 0.86464
