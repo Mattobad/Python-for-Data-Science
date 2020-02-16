@@ -79,7 +79,8 @@ for c in [0.01, 0.05, 0.25, 0.5, 1]:
 final_lr_ngram = LogisticRegression(C=0.5)
 final_lr_ngram.fit(X, target)
 
-# save the model to disk
+# save the model to disk, this part is added as the part of the git experiment 
+# let's see if the commit line is also shown in the stagging like this one...
 lrModel = 'finalized_model_LR.sav'
 pickle.dump(final_lr_ngram, open(lrModel, 'wb'))
  
