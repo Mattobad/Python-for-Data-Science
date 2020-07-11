@@ -1,6 +1,6 @@
 """
 NLP(Natural Language Processing )
-Tweeter mining assignment-1
+Tweeter mining for user and tweets
 """
 
 """
@@ -9,10 +9,10 @@ importing tweepy and adding our authentication
 
 import tweepy
 
-consumer_key = "1U4HldV4FsKbXIaphybo8sEJq"
-consumer_secret = "nJw8f8RCkys02KQ9R5oYP2jg0udFOvki2w5YwVAGnWAnvPruuW"
-access_token = "1099354391423913985-iRB1gtKVrBqnUu16u6Ua1AghxhraiZ"
-access_token_secret ="XvNvFf9REbFYECMwOtlHGryJoBXM6aSytPqJPFLUcr29c"
+consumer_key = ""
+consumer_secret = ""
+access_token = ""
+access_token_secret =""
 
 # Creating API object
 
